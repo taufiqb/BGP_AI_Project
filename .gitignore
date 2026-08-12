@@ -1,0 +1,36 @@
+# BGP datasets
+data/raw_data/*
+data/processed_data/*
+data/output/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env# BGP datasets
+data/raw/*
+data/processed/*
+data/output/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+
