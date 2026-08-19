@@ -8,22 +8,8 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Jupyter
-.ipynb_checkpoints/
-
-# macOS
-.DS_Store
-
-# Environment / secrets
-.env# BGP datasets
-data/raw/*
-data/processed/*
-data/output/*
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
+# Virtual environment
+.venv_bmp/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -33,4 +19,3 @@ __pycache__/
 
 # Environment / secrets
 .env
-
